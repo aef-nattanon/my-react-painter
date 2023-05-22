@@ -1,0 +1,11 @@
+.awesomeContainer {
+  position: relative;
+  width: 400px;
+  height: 300px;
+}
+
+.awesomeContainer canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
